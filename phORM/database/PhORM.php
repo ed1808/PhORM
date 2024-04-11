@@ -7,6 +7,8 @@ DotEnv::loadEnv();
 /**
  * Gives a singleton instance to create a connection to a
  * MySQL database.
+ * 
+ * @author Edward Alexander Rodríguez Londoño
  */
 class PhORM
 {
